@@ -76,8 +76,8 @@
 
 #header .utils {
     position: absolute;
-    right: 30px;
-    top: 0%;
+    right: 0;
+    top: 0;
     bottom: 0;
     align-items: center;
     display: flex;
